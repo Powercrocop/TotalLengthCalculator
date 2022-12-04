@@ -1,0 +1,12 @@
+C:\Users\matus\source\repos\Total Length Calculator\Total Length Calculator\bin\Debug\Total Length Calculator.dll
+C:\Users\matus\source\repos\Total Length Calculator\Total Length Calculator\bin\Debug\Total Length Calculator.pdb
+C:\Users\matus\source\repos\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.csprojAssemblyReference.cache
+C:\Users\matus\source\repos\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.csproj.CoreCompileInputs.cache
+C:\Users\matus\source\repos\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.dll
+C:\Users\matus\source\repos\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.pdb
+E:\Total Length Calculator\Total Length Calculator\bin\Debug\Total Length Calculator.dll
+E:\Total Length Calculator\Total Length Calculator\bin\Debug\Total Length Calculator.pdb
+E:\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.csproj.CoreCompileInputs.cache
+E:\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.dll
+E:\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.pdb
+E:\Total Length Calculator\Total Length Calculator\obj\Debug\Total Length Calculator.csproj.AssemblyReference.cache

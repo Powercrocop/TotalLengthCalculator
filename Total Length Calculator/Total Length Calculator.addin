@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Total Length Calculator</Name>
+    <Assembly>Total Length Calculator\Total Length Calculator.dll</Assembly>
+    <FullClassName>Total_Length_Calculator.App</FullClassName>
+    <ClientId>eb638a3c-18d7-4401-91ef-8ea2542198b1</ClientId>
+    <VendorId>Filip Matusiak</VendorId>
+    <VendorDescription>Filip Matusiak</VendorDescription>
+  </AddIn>
+</RevitAddIns>
